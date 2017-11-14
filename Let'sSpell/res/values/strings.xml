@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Let\'s Spell!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="questionText">How do you spell this word?</string>
+	<string name="instructions">Spell the Word!</string>
+	<string name="correct">Correct!</string>
+	<string name="Incorrect">Incorrect!</string>
+	<string name="play_again">Play Again!</string>
+	<string name="word">Word</string>
+	<string name="of">of</string>
+	<string name="points_worth">Points Worth:</string>
+	<string name="total_points">Total Points:</string>
+	<string name="difficulty">Choose a Difficulty</string>
+	<string name="threeFour">3 To 4 Letter Words</string>
+	<string name="fiveSix">5 To 6 Letter Words</string>
+	<string name="sevenEight">7 To 8 Letter Words</string>
+</resources>

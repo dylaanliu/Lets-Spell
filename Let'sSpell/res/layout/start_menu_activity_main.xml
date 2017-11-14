@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/random_letters_back"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="TextView"
+        android:textColor="@color/text_colour"
+        android:textSize="100sp" />
+
+    <TextView
+        android:id="@+id/difficultyTextView"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="TextView"
+        android:textColor="@color/text_colour"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/threeFourButton"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/threeFour" />
+
+    <Button
+        android:id="@+id/fiveSixButton"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/fiveSix" />
+
+    <Button
+        android:id="@+id/sevenEightButton"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/sevenEight"
+        android:text="@string/sevenEight" />
+
+</LinearLayout>
